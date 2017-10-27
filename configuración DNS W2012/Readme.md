@@ -11,7 +11,9 @@
 
 ![imagenes](./IMG/005.png)  
 
-![imagenes](./IMG/006.png)  
+![imagenes](./IMG/006.png)    
+
+> Aqui configuramos el reenviador , ponemos por ejemplo la ip de google para que se reenvie a esta ip cuando pongamos la nuestra  
 
 ![imagenes](./IMG/007.png)
 
