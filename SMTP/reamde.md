@@ -1,17 +1,27 @@
 # Práctica Servicio SMTP Windows 2012 Server
 
 ## 1.-Instalar Servicio SMTP en Windows 2012 Server
+
 ![img](./IMG/1.png)
 
 ## 2.-Configuración de servicio SMTP a través del administrador de aplicaciones (IIS) 6.0.
+
 ![img](./IMG/2.1.png)
+
 ![img](./IMG/2.2.png)
+
 ![img](./IMG/2.3.png)
+
 ![img](./IMG/2.4.png)
+
 ![img](./IMG/2.5.png)
+
 ![img](./IMG/2.6.png)
+
 ![img](./IMG/2.7.png)
+
 ![img](./IMG/2.8.png)
+
 ## 3.- Deshabilitamos el cortafuegos
 
 ![img](./IMG/3.1.png)
@@ -38,6 +48,7 @@
 ## 5.- Hacemos otro cliente de email con usuarios de Active directory ,autentificacion basica y TLS
 
 **En el servidor SMTP ponemos lo siguiente:**
+
 ![img](./IMG/5.1.png)
 
 **Luego vamos a las cuentas de active directory y seleccionamos alguna:**
@@ -55,6 +66,7 @@
 **Cuando queramos enviar un email nos pedira autentificacion y nos dejara mandar un mensaje:**
 
 ![img](./IMG/5.5.png)
+
 ![img](./IMG/5.6.png)
 
 # Practica hMailServer
