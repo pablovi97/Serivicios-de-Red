@@ -87,7 +87,7 @@ asociadas a la IP del servido**
 
 ### POP3
 
-** Instalamos pop3 y comprobamos puertos**
+**Instalamos pop3 y comprobamos puertos**
 
 ![img](img/27.png)
 
