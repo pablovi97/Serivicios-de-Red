@@ -64,16 +64,7 @@ asociadas a la IP del servido**
 
 ![img](img/21.png)
 
-**Copiar lineas
-no comentadas
-/etc/squirrelmail/apache.conf
-en
-un nuevo fichero .conf de
-/etc/apache2/sites
--
-available
-, habilitar sitio
-y reiniciar apache**
+**Copiar lineas no comentadas /etc/squirrelmail/apache.conf en un nuevo fichero .conf de /etc/apache2/sites-available, habilitar sitio y reiniciar apache**
 
 ![img](img/22.png)
 
