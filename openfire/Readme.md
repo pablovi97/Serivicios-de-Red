@@ -15,9 +15,9 @@
 
 ### Configuramos el openfire
 
-![img](/img/4.png)
+![img](./img/41.png)
 
-![img](/img/5.png)
+![img](./img/51.png)
 
 >En la url de la base de datos ponemos:://loclahost:3306/openfire
 
