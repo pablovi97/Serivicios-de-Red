@@ -77,8 +77,11 @@ Creamos un nuevo sitio en el IIS llamado playlits.miempresa.com
 
 ![img](./img/22.png)
 
-Descargaos dos archivos y los codificamos en el encoder
+Descargamos dos archivos y los codificamos en el encoder
 
 ![img](./img/23.png)
 ![img](./img/24.png)
+
+y  se reporducirá en streaming
+
 ![img](./img/25.png)
